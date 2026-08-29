@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi! My name is Serhii Stas!</h1>
 
 <!--
 **stasserhiy380/stasserhiy380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
