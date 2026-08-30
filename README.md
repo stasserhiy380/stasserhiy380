@@ -15,3 +15,6 @@
   &nbsp;
   <img src="https://cdn.simpleicons.org/wolfram/FF6C00" width="48" height="48" alt="Wolfram Mathematica" />
 </p>
+<h2 align="center">Projects</h2>
+<h3 align="center">Frontend Mentor</h3>
+
