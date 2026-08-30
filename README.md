@@ -75,5 +75,52 @@
   <a href="https://github.com/stasserhiy380/Four-card-feature-section">
     <img src="https://img.shields.io/badge/Newbie-Four%20Card%20Feature%20Section-00b8d4?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
   </a>
+  <h4 align="center">Junior</h4>
+  <p align="center">
 
+  <a href="https://github.com/stasserhiy380/browser-extensions-manager-ui">
+    <img src="https://img.shields.io/badge/Junior-Browser%20Extension%20Manager%20UI-2ecc9a?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/stasserhiy380/Character-counter-react-typescript">
+    <img src="https://img.shields.io/badge/Junior-Character%20Counter-2ecc9a?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/stasserhiy380/tech-book-club-from-fronent-mentor">
+    <img src="https://img.shields.io/badge/Junior-Tech%20Book%20Club%20Landing%20Page-2ecc9a?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/stasserhiy380/Contact-form">
+    <img src="https://img.shields.io/badge/Junior-Contact%20Form-2ecc9a?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/stasserhiy380/Newsletter-sign-up-form-with-success-message-from-Fronend-Mentor">
+    <img src="https://img.shields.io/badge/Junior-Newsletter%20Sign--up%20Form-2ecc9a?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/stasserhiy380/BMI-calculator">
+    <img src="https://img.shields.io/badge/Junior-BMI%20Calculator-2ecc9a?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/stasserhiy380/News-homepage">
+    <img src="https://img.shields.io/badge/Junior-News%20Homepage-2ecc9a?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/stasserhiy380/Time-tracking-dashboard-from-Fronend-Mentor">
+    <img src="https://img.shields.io/badge/Junior-Time%20Tracking%20Dashboard-2ecc9a?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/stasserhiy380/Tip-calculator-app">
+    <img src="https://img.shields.io/badge/Junior-Tip%20Calculator%20App-2ecc9a?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/stasserhiy380/Loopstudios-landing-page">
+    <img src="https://img.shields.io/badge/Junior-Loopstudios%20Landing%20Page-2ecc9a?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/stasserhiy380/Testimonials-grid-section">
+    <img src="https://img.shields.io/badge/Junior-Testimonials%20Grid%20Section-2ecc9a?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
+  </a>
+
+</p>
 </p>
