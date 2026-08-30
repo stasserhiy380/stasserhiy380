@@ -123,4 +123,21 @@
   </a>
 
 </p>
+<h4 align="center">Intermediate</h4>
+
+<p align="center">
+
+  <a href="https://github.com/stasserhiy380/Frontend-Quiz-app">
+    <img src="https://img.shields.io/badge/Intermediate-Frontend%20Quiz%20App-f1b604?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/stasserhiy380/password-generator-app-from-fronend-mentor">
+    <img src="https://img.shields.io/badge/Intermediate-Password%20Generator%20App-f1b604?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/stasserhiy380/E-commerce-product-page">
+    <img src="https://img.shields.io/badge/Intermediate-E--commerce%20Product%20Page-f1b604?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
+  </a>
+
+</p>
 </p>
