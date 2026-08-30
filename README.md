@@ -139,5 +139,48 @@
     <img src="https://img.shields.io/badge/Intermediate-E--commerce%20Product%20Page-f1b604?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
   </a>
 
+<h2 align="center">Mathematical Background</h2>
+
+<p align="center">
+  <b>Analysis:</b>
+  Real Analysis • Measure Theory • Functional Analysis
+</p>
+
+<p align="center">
+  <b>Probability & Statistics:</b>
+  Probability Theory • Stochastic Processes • Mathematical Statistics
+</p>
+
+<p align="center">
+  <b>Optimization:</b>
+  Convex Optimization • Numerical Optimization • Variational Methods
+</p>
+
+<p align="center">
+  <b>Geometry & Topology:</b>
+  Differential Geometry • General Topology • Algebraic Topology
+</p>
+
+<p align="center">
+  <b>Numerical Mathematics:</b>
+  Numerical Analysis • Numerical Linear Algebra • Numerical ODE/PDE
+</p>
+  
+  <h2 align="center">
+    Foreign languages
+  </h2>
+  <p align="center">
+  <img src="https://flagcdn.com/w80/gb.png" width="48" height="32" alt="English" title="English" />
+  &nbsp;&nbsp;
+  <img src="https://flagcdn.com/w80/de.png" width="48" height="32" alt="German" title="German" />
+  &nbsp;&nbsp;
+  <img src="https://flagcdn.com/w80/fr.png" width="48" height="32" alt="French" title="French" />
+</p>
+
+<p align="center">
+  English &nbsp;&nbsp; • &nbsp;&nbsp;
+  German &nbsp;&nbsp; • &nbsp;&nbsp;
+  French
+</p>
 </p>
 </p>
