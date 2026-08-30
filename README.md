@@ -17,4 +17,10 @@
 </p>
 <h2 align="center">Projects</h2>
 <h3 align="center">Frontend Mentor</h3>
-
+<h4 align="center">Newbie</h4>
+<p align="center">
+  <a href="https://github.com/stasserhiy380/Recipe-page">
+    <img src="https://img.shields.io/badge/Newbie-Recipe%20Page%20-00b8d4?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
+  </a>
+  
+</p>
