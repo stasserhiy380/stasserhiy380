@@ -75,9 +75,7 @@
   <a href="https://github.com/stasserhiy380/Four-card-feature-section">
     <img src="https://img.shields.io/badge/Newbie-Four%20Card%20Feature%20Section-00b8d4?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
   </a>
-    <a href="https://github.com/stasserhiy380/Grid-landing-page-tailwindcss">
-    <img src="https://img.shields.io/badge/Newbie-Four%20Card%20Feature%20Section-00b8d4?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
-  </a>
+
   <h4 align="center">Junior</h4>
   <p align="center">
 
