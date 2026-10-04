@@ -2,10 +2,9 @@
 <h2 align="center">About Me</h2>
 
 <ul> 
-  <li>🎓 I hold a Bachelor's degree in Theoretical Physics.</li>
+  <li>🎓 I hold a Bachelor's degree in Theoretical Physics and a second Bachelor's degree in Methods and Systems of Artificial Intelligence</li>
   <li>📐 I hold a Master's degree in Mathematics.</li>
-  <li>🔭 I am currently pursuing a PhD at the Institute of Mathematics.</li> 
-  <li>🤖 I am also completing a second degree in Methods and Systems of Artificial Intelligence.</li> 
+  <li>🔭 I am currently pursuing a PhD at the Institute of Mathematics.</li>  
 </ul>
 
 <h2 align="center">Tech Stack</h2>
