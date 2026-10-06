@@ -77,6 +77,8 @@
   </a>
     <a href="https://github.com/stasserhiy380/Grid-landing-page-tailwindcss">
     <img src="https://img.shields.io/badge/Newbie-Grid%20Landing%20Page-00b8d4?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />  </a>
+          <a href="https://github.com/stasserhiy380/Workit-landing-page">
+    <img src="https://img.shields.io/badge/Newbie-Workit%20Landing%20Page-00b8d4?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />  </a>
       
   <h4 align="center">Junior</h4>
   <p align="center">
