@@ -143,7 +143,9 @@
   <a href="https://github.com/stasserhiy380/E-commerce-product-page">
     <img src="https://img.shields.io/badge/Intermediate-E--commerce%20Product%20Page-f1b604?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
   </a>
-
+<a href="https://github.com/stasserhiy380/Room-homepage-from-frontend-mentor">
+  <img src="https://img.shields.io/badge/Intermediate-Room%20Homepage-f1b604?style=flat&labelColor=555&logo=frontendmentor&logoColor=white" />
+</a>
 <h2 align="center">Mathematical Background</h2>
 
 <p align="center">
