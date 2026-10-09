@@ -154,7 +154,9 @@
 <a href="https://github.com/stasserhiy380/Expense-Tracker-roadmap.sh">
   <img src="https://img.shields.io/badge/Beginner-Expense%20Tracker-6C63FF?style=flat&labelColor=555&logo=roadmapdotsh&logoColor=white" />
 </a>
-
+<a href="https://github.com/stasserhiy380/Task-Tracker-from-roadmap.sh">
+  <img src="https://img.shields.io/badge/Beginner-Task%20Tracker-6C63FF?style=flat&labelColor=555&logo=roadmapdotsh&logoColor=white" />
+</a>
 
 <h2 align="center">Mathematical Background</h2>
 
